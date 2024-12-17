@@ -1,4 +1,4 @@
-# ListFlow
+# Todolist
 
 **Todolist** is an intuitive web application designed to help users create and manage their to-do lists efficiently. It allows users to add tasks with detailed titles and descriptions, update existing tasks, and remove completed or unwanted tasks. With its user-friendly interface, Todolist simplifies task organization, enabling users to stay focused and productive.
 
